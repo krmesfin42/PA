@@ -2,7 +2,7 @@
  *Name: Kirubel Negash
  * CptS 233: PA #1
  * Date: 09/16/2020
- * gitRepo url:
+ * gitRepo url: https://github.com/krmesfin42/PA.git
  * The program reads an input file that contains integer values. Insert the integers into a singly linked list.
  * Find the minimum from the list and print the timing to get the integer.
  * Find the maximum from the list and print the timing to get the integer.
